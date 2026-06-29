@@ -1,7 +1,7 @@
 <!-- HTML rendered hero — GitHub README markdown supports limited HTML -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cisco-Skills_Optimization-0066CC?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Skills Optimization" />
+<img src="https://img.shields.io/badge/Skills_Optimization-0066CC?style=for-the-badge&logo=cisco&logoColor=white" alt="Skills Optimization" />
 
 # AI Agent Skills 调用优化系统
 ### Skills Optimization for AI Agents
