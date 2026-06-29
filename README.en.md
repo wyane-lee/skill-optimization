@@ -1,12 +1,12 @@
 <!-- HTML rendered hero — GitHub README markdown supports limited HTML -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cisco-Skills_Optimization-0066CC?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Skills Optimization" />
+<img src="https://img.shields.io/badge/Skills_Optimization-0066CC?style=for-the-badge&logo=cisco&logoColor=white" alt="Skills Optimization" />
 
 # AI Agent Skills Optimization System
 ### Skills Optimization for AI Agents
 
-**Ensure 73 Skills work in harmony, and Agents always choose the right one**
+**Ensure all Skills work in harmony, and Agents always choose the right one**
 
 [![Status](https://img.shields.io/badge/status-production%20ready-10B981?style=flat-square)]()
 [![Coverage](https://img.shields.io/badge/coverage-100%25-10B981?style=flat-square)]()
@@ -28,7 +28,7 @@
 
 ## ✨ Project Summary
 
-> When an AI Agent has 73 functionally overlapping Skills, **it often chooses wrong, uses incompletely, and fails to invoke properly**.
+> When an AI Agent has many functionally overlapping Skills, **it often chooses wrong, uses incompletely, and fails to invoke properly**.
 > This project uses **5 automation tools + 4 in-depth documents** to completely resolve this issue.
 
 ---
@@ -139,7 +139,7 @@ Real-time routing decision flow · Top-5 recommendations · decision tree visual
 ### 🗺 Skills Capability Matrix
 **`skills-matrix-visualization.html`**
 
-Complete 73-Skill heatmap · multi-dimensional classification (category / action / priority) · search & filter · invocation intensity coloring.
+Complete Skill heatmap · multi-dimensional classification (category / action / priority) · search & filter · invocation intensity coloring.
 
 <sub>**Best for**: Global overview, finding specific Skills, statistical analysis</sub>
 
@@ -162,7 +162,7 @@ Complete 73-Skill heatmap · multi-dimensional classification (category / action
 This project resolves **functional overlap** between AI Agent Skills that causes routing failures and incomplete capability use. It delivers a structured Skills management system that materially improves selection accuracy and invocation success rate.
 
 **Headline numbers**
-- 73 Skills fully classified in a functional matrix
+- all Skills fully classified in a functional matrix
 - 8 medium-severity overlap pairs detected
 - Routing accuracy **92%** (target 85%)
 - Test coverage **100%** (8/8 passing)
@@ -327,9 +327,9 @@ python3 tools/usage_analyzer.py --help
 
 ```bash
 # macOS
-open https://wwwin-github.cisco.com/pages/wenfeli/skills-optimization/screenshots/project-overview-dashboard.html
+open project-overview-dashboard.html
 
-# Or manually open any .html in https://wwwin-github.cisco.com/pages/wenfeli/skills-optimization/screenshots/
+# Or manually open any .html in skills-optimization/screenshots/
 ```
 
 ---
@@ -433,7 +433,7 @@ Current status: **8/8 passing · 100% coverage**
 
 <div align="center">
 
-**Made with ❤️ for Cisco CX · Ensuring AI Agents never "blindly choose Skills"**
+**Made with ❤️ for you all · Ensuring AI Agents never "blindly choose Skills"**
 
 <sub>This README uses modern card-based layout · Paired with 5 WebGUI dashboards · GitHub-optimized rendering</sub>
 
